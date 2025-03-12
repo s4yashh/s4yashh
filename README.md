@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJpZDFkMGE3dTcyNDZydDgwMXJ4Y2MzdjV6N2pzeWFscTRpaXh6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif" alt="Coding GIF" width="600"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJpZDFkMGE3dTcyNDZydDgwMXJ4Y2MzdjV6N2pzeWFscTRpaXh6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif" alt="Coding GIF" width="200"/>
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wJt3v7Gs46uticTUj4y9zg.gif" alt="Technical GIF" width="200"/>
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5pOGo3NGdrbzZvYjN3OG02Z2MzNThhcm9jNmQzaTVzd3Boa3M0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif" alt="Amazon Clone GIF" width="200"/>
+
 </p>
 
 <h1 align="center">Hi, I'm Suyash!</h1>
@@ -64,24 +67,25 @@ I'm a passionate developer with expertise in building modern web applications, i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUYASHSINGH7985&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASHSINGH7985&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SUYASHSINGH7985&show_icons=true&theme=radical" alt="GitHub Stats" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASHSINGH7985&layout=compact&theme=radical" alt="Top Languages" width="300"/>
 </p>
 
 ---
 
 ## 📈 What I'm Currently Working On
 
-- Building a real-time chat application with React, Node.js, and WebSocket.
-- Exploring ARKit for augmented reality iOS apps.
-- Contributing to open-source projects in the Three.js community.
+- 🧠 Exploring AI/ML, starting with foundational concepts and hands-on projects.
+- 📈 Learning about Stock Market & Finance, analyzing market trends and investment strategies.
+- 💻 Improving my Frontend & App Development skills, currently building an Amazon clone in Swift.
+- 🔍 Solving DSA in python & C++ for FAANG preparation.
+- 🎯 Working on personal projects to apply AI in real-world use case
 
----
 
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5pOGo3NGdrbzZvYjN3OG02Z2MzNThhcm9jNmQzaTVzd3Boa3M0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif" alt="Amazon Clone GIF" width="300"/>
-  <img src="https://technicalseo.com/insights/wp-content/uploads/2019/04/javascript.gif" alt="JavaScript Animation" width="300"/>
+ 
+  <img src="https://technicalseo.com/insights/wp-content/uploads/2019/04/javascript.gif" alt="JavaScript Animation" width="500"/>
 </p>
 
 ---
