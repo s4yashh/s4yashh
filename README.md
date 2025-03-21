@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi, I'm Suyash!</h1>
 <p align="center">
-  <strong>Full-Stack Developer | iOS App Developer | Problem Solver</strong>
+  <strong>Frontend Developer | iOS App Developer | Problem Solver</strong>
 </p>
 
 <p align="center">
