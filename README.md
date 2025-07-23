@@ -85,7 +85,7 @@ I'm a passionate developer with expertise in building modern web applications, i
 
 <p align="center">
  
-  <img src="https://technicalseo.com/insights/wp-content/uploads/2019/04/javascript.gif" alt="JavaScript Animation" width="500"/>
+  
 </p>
 
 ---
