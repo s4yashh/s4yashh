@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJpZDFkMGE3dTcyNDZydDgwMXJ4Y2MzdjV6N2pzeWFscTRpaXh6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif" alt="Coding GIF" width="200"/>
-    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wJt3v7Gs46uticTUj4y9zg.gif" alt="Technical GIF" width="200"/>
-   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5pOGo3NGdrbzZvYjN3OG02Z2MzNThhcm9jNmQzaTVzd3Boa3M0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif" alt="Amazon Clone GIF" width="200"/>
-
-</p>
-
 <h1 align="center">Hi, I'm Suyash!</h1>
 <p align="center">
   <strong>Frontend Developer | iOS App Developer | Problem Solver</strong>
