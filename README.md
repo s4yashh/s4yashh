@@ -18,11 +18,11 @@
 
 ---
 
-##  About Me 💁🏽‍♂️
+##  About Me 
 
 I'm a passionate developer with expertise in building modern web applications, interactive 3D experiences, scalable backend systems, and sleek iOS apps. I thrive on solving complex problems, creating user-friendly interfaces, and delivering high-quality code. Whether it's crafting a dynamic React frontend, designing a MongoDB database, animating 3D scenes with Three.js, or building a SwiftUI iOS app, I'm always eager to learn and innovate.
 
-### 🌟 What I Bring to the Table
+###  What I Bring to the Table
 - **Full-Stack Web Development**: Building end-to-end web solutions with modern frameworks and tools.
 - **3D Web Experiences**: Creating immersive and interactive 3D visuals using Three.js.
 - **iOS App Development**: Designing and developing user-friendly mobile apps with SwiftUI.
@@ -31,7 +31,7 @@ I'm a passionate developer with expertise in building modern web applications, i
 
 ---
 
-## 🛠️ My Tech Stack
+##Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
@@ -46,25 +46,25 @@ I'm a passionate developer with expertise in building modern web applications, i
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
 </p>
 
-### 🧩 Skills Breakdown
+###  Skills Breakdown
 
-#### 🌐 Web Development
+####  Web Development
 - **Frontend**: HTML, CSS, JavaScript, React.js, Three.js
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Tools**: Git, Webpack, Vite, npm/yarn
 
-#### 📱 iOS App Development
+####  iOS App Development
 - **Framework**: SwiftUI
 - **Features**: Dynamic UI, animations, data persistence (UserDefaults, Core Data)
 - **Tools**: Xcode, iOS Simulator
 
-#### 💻 General Programming
+####  General Programming
 - **Languages**: Python, C++
 - **Applications**: Algorithm design, data structures, competitive programming
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SUYASHSINGH7985&show_icons=true&theme=radical" alt="GitHub Stats" width="300"/>
@@ -73,13 +73,13 @@ I'm a passionate developer with expertise in building modern web applications, i
 
 ---
 
-## 📈 What I'm Currently Working On
+##  What I'm Currently Working On
 
-- 🧠 Exploring AI/ML, starting with foundational concepts and hands-on projects.
-- 📈 Learning about Stock Market & Finance, analyzing market trends and investment strategies.
-- 💻 Improving my Frontend & App Development skills, currently building an Amazon clone in Swift.
-- 🔍 Solving DSA in python & C++ for FAANG preparation.
-- 🎯 Working on personal projects to apply AI in real-world use case
+- Exploring AI/ML, starting with foundational concepts and hands-on projects.
+- Learning about Stock Market & Finance, analyzing market trends and investment strategies.
+- Improving my Frontend & App Development skills, currently building an Amazon clone in Swift.
+- Solving DSA in python & C++ for FAANG preparation.
+- Working on personal projects to apply AI in real-world use case
 
 
 
