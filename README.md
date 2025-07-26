@@ -57,14 +57,7 @@ I'm a passionate developer with expertise in building modern web applications, i
 - **Applications**: Algorithm design, data structures, competitive programming
 
 
-##  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUYASHSINGH7985&show_icons=true&theme=radical" alt="GitHub Stats" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASHSINGH7985&layout=compact&theme=radical" alt="Top Languages" width="300"/>
-</p>
-
----
 
 ##  What I'm Currently Working On
 
