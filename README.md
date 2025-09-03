@@ -17,7 +17,7 @@ I create web and mobile apps, design backend systems, always curious and learnin
 
 ---
 
-##Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
@@ -46,7 +46,7 @@ I create web and mobile apps, design backend systems, always curious and learnin
 - **Tools**: Xcode, iOS Simulator
 
 ####  General Programming
-- **Languages**: Python, C++
+- **Languages**: Python,Java, C++
 - **Applications**: Algorithm design, data structures, competitive programming
 
 
