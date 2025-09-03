@@ -13,14 +13,7 @@
 
 ##  About Me 
 
-I'm a passionate developer with expertise in building modern web applications, interactive 3D experiences, scalable backend systems, and sleek iOS apps. I thrive on solving complex problems, creating user-friendly interfaces, and delivering high-quality code. Whether it's crafting a dynamic React frontend, designing a MongoDB database, animating 3D scenes with Three.js, or building a SwiftUI iOS app, I'm always eager to learn and innovate.
-
-###  What I Bring to the Table
-- **Full-Stack Web Development**: Building end-to-end web solutions with modern frameworks and tools.
-- **3D Web Experiences**: Creating immersive and interactive 3D visuals using Three.js.
-- **iOS App Development**: Designing and developing user-friendly mobile apps with SwiftUI.
-- **Backend Development**: Building scalable APIs and databases with Node.js and MongoDB.
-- **Problem Solving**: Tackling algorithmic challenges with Python and C++.
+I create web and mobile apps, design backend systems, always curious and learning new things.
 
 ---
 
@@ -42,10 +35,10 @@ I'm a passionate developer with expertise in building modern web applications, i
 ###  Skills Breakdown
 
 ####  Web Development
-- **Frontend**: HTML, CSS, JavaScript, React.js, Three.js
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Tools**: Git, Webpack, Vite, npm/yarn
+- **Frontend**: HTML, CSS, JavaScript/TypeScript, React.js, Three.js
+- **Backend**: Node.js, Express.js, Supabase
+- **Database**: MongoDB, SQL
+- **Tools**: Git, Webpack, Vite, npm/yarn,Xcode
 
 ####  iOS App Development
 - **Framework**: SwiftUI
@@ -59,19 +52,3 @@ I'm a passionate developer with expertise in building modern web applications, i
 
 
 
-##  What I'm Currently Working On
-
-- Exploring AI/ML, starting with foundational concepts and hands-on projects.
-- Learning about Stock Market & Finance, analyzing market trends and investment strategies.
-- Improving my Frontend & App Development skills, currently building an Amazon clone in Swift.
-- Solving DSA in python & C++ for FAANG preparation.
-- Working on personal projects to apply AI in real-world use case
-
-
-
-<p align="center">
- 
-  
-</p>
-
----
