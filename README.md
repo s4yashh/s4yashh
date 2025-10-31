@@ -1,7 +1,4 @@
 <h1 align="center">Hi, I'm Suyash!</h1>
-<p align="center">
-  <strong>Web Developer | iOS App Developer | Problem Solver</strong>
-</p>
 
 ---
 
