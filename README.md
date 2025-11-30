@@ -1,2 +1,3 @@
-> C++ | DSA | Dev  
-> If I’m not coding, I’m most likely gaming, exploring new places, or travelling.
+> C++ | DSA | Dev
+> These days, I’m deep into learning React Native. That’s where most of my time goes.
+> If I’m not coding, I’m most likely gaming, exploring, or focusing on my physique.
