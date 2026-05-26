@@ -1,2 +1,4 @@
-> 2nd year CS student  
-> I’m into DSA and development
+```md
+Hello, I'm Suyash.  
+Interested in <b>DSA</b> and <b>Development</b>.
+```
